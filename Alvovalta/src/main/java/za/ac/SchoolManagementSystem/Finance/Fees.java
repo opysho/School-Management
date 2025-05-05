@@ -73,7 +73,7 @@ public class Fees {
 		//here Pvi is database name, root is username and password
 		Statement  st = c1.createStatement();
 		
-		System.out.println("\tUPDATE FEE");
+		System.out.println("\tWELCOME TO UPDATE FEES");
 		System.out.println();
 		System.out.println("Enter staff number");
 		int staffNo = sc.nextInt();
