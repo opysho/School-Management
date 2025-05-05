@@ -86,11 +86,11 @@ public class Fees {
 		System.out.println("Enter assignment score?");
 		double assignment = sc.nextDouble();
 		sc.nextLine();
-		System.out.println("Enter test score");
+		System.out.println("Enter test grade");
 		double test = sc.nextDouble();
-		System.out.println("Enter exam score");
+		System.out.println("Enter exam grade");
 		double exam = sc.nextDouble();
-		System.out.println("Enter average score");
+		System.out.println("Enter average grade");
 		double average = sc.nextDouble();
 		
 		
