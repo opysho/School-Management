@@ -32,7 +32,7 @@ public class Application {
 
 		for(int z=0; z<5; z++) {
 		System.out.println();
-		System.out.println("\tALVOVALTA SCHOOL MANAGEMENT SYSTEM\t \t \t");
+		System.out.println("\tWELCOME TO ALVOVALTA SCHOOL MANAGEMENT SYSTEM\t \t \t");
 		System.out.println();
 
 		menu.menu();
