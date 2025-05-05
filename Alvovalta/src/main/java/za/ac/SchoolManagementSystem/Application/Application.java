@@ -50,13 +50,13 @@ public class Application {
 			System.out.println();
 			menu.menuA();
 			System.out.println();
-			System.out.println("Select your option to continue");
+			System.out.println("Select your option to continue now");
 			System.out.println();
 			try {
 				System.out.print("Enter option :");
 				option = sc.nextInt();
 			} catch (InputMismatchException ex) {
-				System.out.println("Invalid Input, try again!!!!");
+				System.out.println("Invalid Input, try again please !!!!");
 			}
 			if (option == 3) {
 				try {
